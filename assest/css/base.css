@@ -1,0 +1,15 @@
+:root {
+    --color-one: #8362F0;
+    --color-two: #F36BAA;
+    --color-three:#F2F2FE;
+    --color-four:#8B5FE8;
+    --color-text-one: #1E1E1E;
+    --color-text-two:white;
+    --color-text-three:#777777;
+
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
